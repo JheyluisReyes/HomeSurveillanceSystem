@@ -17,4 +17,4 @@ This application helps you with the monitoring of your house through security ca
     pip install -r requirements.txt
     ```
 
-- Open [homesurveillancesystem.py](homesurveillancesystem.py) in Visual Studio Code to run the IP Camera Connection app.
+- Open [homesurveillancesystem.py](homesurveillancesystem.py) in Visual Studio Code to run the Home Surveillance System app.
